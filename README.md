@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and [Weather-API](https://openweathermap.org/api). 
 
+# Link to Website
+### [Country](https://country-osjy.onrender.com/)
+> You can view the website by clicking this link
+
 ## Available Scripts
 
 In the project directory, you can run:
