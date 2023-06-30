@@ -7,7 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 > You can view the website by clicking this link
 
 ![Screenshot 2023-06-20 at 22 07 00 (2)](https://github.com/VienThanh12/Country-Project/assets/67015555/d1ccbfda-eec7-467c-8f4a-8c9086157de6)
-
+**Note:** Remember that because I use a free account in [Render.com](https://render.com/). so it will spin down with inactivity. If you can not see it, I don't activate the web yet. Sorry for this inconvenience.
 
 ## Available Scripts
 
