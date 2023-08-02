@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and [Weather-API](https://openweathermap.org/api). 
 
 # Link to Website
-### [Country](https://country-osjy.onrender.com/)
+### [Country](https://country-osjy.onrender.com)
 > You can view the website by clicking this link
 
 ![Screenshot 2023-06-20 at 22 07 00 (2)](https://github.com/VienThanh12/Country-Project/assets/67015555/d1ccbfda-eec7-467c-8f4a-8c9086157de6)
